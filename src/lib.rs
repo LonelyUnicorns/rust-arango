@@ -15,3 +15,5 @@ extern crate serde_derive;
 
 #[macro_use]
 extern crate typed_builder;
+
+pub mod config;
